@@ -1,0 +1,4 @@
+{
+  "name": "PlayFab",
+  "tree": { "$path": "src" }
+}
